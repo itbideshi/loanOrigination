@@ -511,6 +511,13 @@
     }
 }
 
+a.select {
+    border-radius: 0;
+    background: #fff url(../images/sltarw.png) no-repeat right;
+    height: 45px;
+    line-height: 45px;
+}
+
 @media (min-width: 768px) {
     .tabsContent {
         .form {
